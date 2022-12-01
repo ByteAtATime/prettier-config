@@ -1,0 +1,19 @@
+{
+  "name": "@byteatatime/prettier-config",
+  "version": "0.1.0",
+  "description": "My opinionated prettier config",
+  "main": "index.cjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByteAtATime/prettier-config.git"
+  },
+  "author": "ByteAtATime <byteatatime@proton.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ByteAtATime/prettier-config/issues"
+  },
+  "homepage": "https://github.com/ByteAtATime/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^2.8.0"
+  }
+}
